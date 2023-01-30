@@ -1,0 +1,2867 @@
+[
+    {
+        "nome": "Cruzeiro do Sul ",
+        "estado": "AC",
+        "icao": "SBCZ",
+        "lat": -72.771,
+        "long": -72.77,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1975",
+                "descricao": "Construção de duas residências em alvenaria "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso, pátio, pista de rolagem, área de retorno e acesso ao VOR "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1977",
+                "descricao": "Instalação do balizamento noturno "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1993",
+                "descricao": "Recapeamento da pista de pouso, pista de rolagem e área de retorno e concordâncias "
+            }
+        ]
+    },
+    {
+        "nome": "Rio Branco ",
+        "estado": "AC",
+        "icao": "SBRB",
+        "lat": -9.869,
+        "long": -67.89,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1972",
+                "termino": "1974",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1979",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Reforma do Hotel de Trânsito da FAB "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Recuperação da pista de pouso e trechos do pátio de aeronaves "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Construção do acesso aos Terminais de Carga das companhias "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1984",
+                "descricao": "Recuperação da pista de pouso "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Complementação do reforço do pátio de aeronaves, elevação das ilhas no pátio de aeronaves e renovação do balizamento noturno "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recapeamento dos pavimentos das pistas de táxis e do pátio de manobras "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Recuperação do pavimento danificado da pista de pouso "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1990",
+                "descricao": "Recuperação de áreas comprometidas do pavimento do aeroporto "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1991",
+                "descricao": "Recuperação e manutenção de áreas comprometidas do pátio, táxi e pista de pouso e decolagem "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1992",
+                "descricao": "Manutenção da pista, pátio e táxi "
+            },
+            {
+                "inicio": "1993",
+                "termino": "1999",
+                "descricao": "Construção do novo Aeroporto Internacional de Rio Branco "
+            }
+        ]
+    },
+    {
+        "nome": "Barcelos ",
+        "estado": "AM",
+        "icao": "SWBC",
+        "lat": -0.9811,
+        "long": -62.918,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1972",
+                "termino": "1973",
+                "descricao": "Recuperação da pista de pouso "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "2008",
+                "termino": "2010",
+                "descricao": "Recuperação dos pavimentos da pista de pouso, pátio e táxi e construção da cerca operacional "
+            }
+        ]
+    },
+    {
+        "nome": "Boca do Acre ",
+        "estado": "AM",
+        "icao": "SWNK",
+        "lat": -8.83387,
+        "long": -67.312,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de um terminal de passageiros em alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1979",
+                "descricao": "Construção de uma estrada de acesso aeroporto/Piquiá "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1979",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Recuperação da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1984",
+                "descricao": "Recuperação da pista de pouso "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1990",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Carauari ",
+        "estado": "AM",
+        "icao": "SWCA",
+        "lat": -4.874,
+        "long": -66.899,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1977",
+                "termino": "1977",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Coari ",
+        "estado": "AM",
+        "icao": "SWKO",
+        "lat": -4.132,
+        "long": -63.13522,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de um terminal de passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1979",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1980",
+                "descricao": "Construção do acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Construção de um poço semi-artesiano "
+            }
+        ]
+    },
+    {
+        "nome": "Cucuí ",
+        "estado": "AM",
+        "icao": "SBKU",
+        "lat": 1.119,
+        "long": -66.842,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1985",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem e táxi "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1986",
+                "descricao": "Recuperação de trechos da pista de pouso, pátio de aeronaves e pista de rolagem e táxi "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem e táxi "
+            }
+        ]
+    },
+    {
+        "nome": "Eirunepé ",
+        "estado": "AM",
+        "icao": "SWEI",
+        "lat": -6.63722,
+        "long": -69.884,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1977",
+                "termino": "1977",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de um terminal de passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1974",
+                "termino": "1979",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1984",
+                "descricao": "Recuperação da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "2000",
+                "termino": "2008",
+                "descricao": "Ampliação da pista de pouso e do pátio de estacionamento "
+            },
+            {
+                "inicio": "2005",
+                "termino": "2009",
+                "descricao": "Construção da Seção de Contra-Incêndio categoria 1 a 4 "
+            }
+        ]
+    },
+    {
+        "nome": "Estirão do Equador ",
+        "estado": "AM",
+        "icao": "SWEE",
+        "lat": -4.524,
+        "long": -71.562,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1975",
+                "termino": "1976",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1974",
+                "termino": "1976",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2020",
+                "descricao": "Ampliação da pista de pouso e reforço dos pavimentos "
+            }
+        ]
+    },
+    {
+        "nome": "Humaitá ",
+        "estado": "AM",
+        "icao": "SWHT",
+        "lat": -7.539,
+        "long": -63.07,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1963",
+                "termino": "1969",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Ipiranga  - Santo Antonio do Içá",
+        "estado": "AM",
+        "icao": "SWII",
+        "lat": -2.937,
+        "long": -69.694,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1980",
+                "termino": "1983",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "2000",
+                "termino": "2005",
+                "descricao": "Ampliação da pista de pouso e reforço dos pavimentos "
+            }
+        ]
+    },
+    {
+        "nome": "Itacoatiara ",
+        "estado": "AM",
+        "icao": "SBIC",
+        "lat": -3.123,
+        "long": -58.48327,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1958",
+                "termino": "1964",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Lábrea ",
+        "estado": "AM",
+        "icao": "SWLB",
+        "lat": -7.282,
+        "long": -64.77,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1981",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Construção de um terminal de passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1990",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            }
+        ]
+    },
+    {
+        "nome": "Manaus - Aeroclube",
+        "estado": "AM",
+        "icao": "SWFN",
+        "lat": -3.072,
+        "long": -60.023,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1981",
+                "termino": "1982",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, stop-way, pátio de aeromodelismo e pátio de estacionamento de veículos "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção da rede de alta e baixa tensão "
+            }
+        ]
+    },
+    {
+        "nome": "Manaus  - Eduardo Gomes",
+        "estado": "AM",
+        "icao": "SBEG",
+        "lat": -3.035,
+        "long": -60.046,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção de placas de concreto-cimento no pátio do terminal de carga aérea  "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Construção de um pátio de aeronaves para aviação geral, pista de rolagem e vala de drenagem "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Construção do acesso ao TPS e hangares "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Construção de placas de concreto-cimento no pátio de aeronaves do terminal de carga aérea  "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1986",
+                "descricao": "Recuperação dos acostamentos da pista de pouso, pista de rolagem e stop-way "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1986",
+                "descricao": "Recuperação de erosões e construção de valas de drenagem "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1987",
+                "descricao": "Recuperação de erosões e construção de valas de drenagem e aplicação de Korosphalt no pátio de aviação geral  "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e táxi  "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Construção do acesso rápido à pista de pouso, recuperação do pavimento comprometido do pátio de aeronaves e recuperação do acesso ao aparelho de radar "
+            }
+        ]
+    },
+    {
+        "nome": "Manaus  - Ponta Pelada",
+        "estado": "AM",
+        "icao": "SBMN",
+        "lat": -3.145,
+        "long": -59.993,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção de uma pista de pouso tática e duas pistas de rolagem "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Construção de uma pista de rolagem ligando o pátio do VII COMAR/ pátio do 7º ETA "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Construção da estrada de acesso ao paiol da BAMN "
+            },
+            {
+                "inicio": "2006",
+                "termino": "2010",
+                "descricao": "Construção do Hangar do Destacamento de Suprimento de Material  e anexos na BAMN "
+            },
+            {
+                "inicio": "2006",
+                "termino": "2010",
+                "descricao": "Reforma do prédio do Terminal de Passageiros do Aeroporto de Ponta Pelada e Construção do prédio anexo ao TPS da BAMN "
+            },
+            {
+                "inicio": "2018",
+                "termino": "2019",
+                "descricao": "Construção de área de giro do aeroporto de Ponta Pelada "
+            }
+        ]
+    },
+    {
+        "nome": "Manicoré ",
+        "estado": "AM",
+        "icao": "SBMY",
+        "lat": -5.80976,
+        "long": -61.2785,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1963",
+                "termino": "1969",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "2010",
+                "termino": "2012",
+                "descricao": "Restauração dos pavimentos da pista de pouso, táxi e pátio "
+            }
+        ]
+    },
+    {
+        "nome": "Maturacá ",
+        "estado": "AM",
+        "icao": "SBMK",
+        "lat": 0.6265,
+        "long": -66.12,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção da pista de pouso, táxi e pátio de aeronaves "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1989",
+                "descricao": "Recuperação da Pista de pouso, Pátio de Aeronaves, Pista de rolagem e Áreas de retorno "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1990",
+                "descricao": "Recuperação da Pista de pouso, Pátio de Aeronaves, Pista de rolagem e Áreas de retorno "
+            },
+            {
+                "inicio": "1993",
+                "termino": "1993",
+                "descricao": "Pavimentação das vias do Pelotão do Exército "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1993",
+                "descricao": "Recuperação e ampliação da Pista de pouso, Pátio de Aeronaves e Pista de rolagem. "
+            },
+            {
+                "inicio": "1997",
+                "termino": "1998",
+                "descricao": "Recuperação de áreas na pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Maués ",
+        "estado": "AM",
+        "icao": "SWMW",
+        "lat": -3.374,
+        "long": -57.7239,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1969",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de táxi "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de táxi "
+            },
+            {
+                "inicio": "2009",
+                "termino": "2010",
+                "descricao": "Restauração dos pavimentos da pista, táxi, pátio e construção da cerca operacional "
+            }
+        ]
+    },
+    {
+        "nome": "Moura",
+        "estado": "AM",
+        "icao": "SWOW",
+        "lat": -1.4623,
+        "long": -61.634,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1960",
+                "termino": "1966",
+                "descricao": "Recuperação da pista de pouso "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Recuperação da pista de pouso "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Construção de um prédio em alvenaria para escritório da COMARA "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Construção de um prédio em alvenaria para instalação da Delegacia de Polícia "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1986",
+                "descricao": "Construção de um prédio em alvenaria para o refeitório da COMARA "
+            },
+            {
+                "inicio": "2008",
+                "termino": "2018",
+                "descricao": "Ampliação e reforma do aeródromo com execução de cerca operacional "
+            }
+        ]
+    },
+    {
+        "nome": "Palmeiras do Javari ",
+        "estado": "AM",
+        "icao": "SWJV",
+        "lat": -5.131,
+        "long": -72.812,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1973",
+                "termino": "1975",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso pátio de aeronaves, pista de rolagem e áreas de concordâncias "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Recuperação da pista de pouso pátio, pista de rolagem e áreas de concordâncias "
+            },
+            {
+                "inicio": "2005",
+                "termino": "2012",
+                "descricao": "Ampliação da pista de pouso e reforço dos pavimentos "
+            }
+        ]
+    },
+    {
+        "nome": "Pari Cachoeira ",
+        "estado": "AM",
+        "icao": "SWPC",
+        "lat": 0.26553,
+        "long": -69.7939,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1960",
+                "termino": "1966",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Construção de uma residência pré-fabricada em fibrocimento "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1989",
+                "descricao": "Recuperação da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Construção da estrada de acesso aeroporto/Missão "
+            }
+        ]
+    },
+    {
+        "nome": "Parintins ",
+        "estado": "AM",
+        "icao": "SWPI",
+        "lat": -2.6722,
+        "long": -56.7761,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1964",
+                "termino": "1970",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1982",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria com dois pavimentos "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1982",
+                "descricao": "Reforma da pista de pouso e construção de pátio de aeronaves, pista de rolagem e área de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Querari",
+        "estado": "AM",
+        "icao": "SWQE",
+        "lat": 1.08507,
+        "long": -69.83787,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperacão da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1995",
+                "termino": "1997",
+                "descricao": "Recuperacão da pista de pouso e pátio de aeronaves "
+            }
+        ]
+    },
+    {
+        "nome": "Santa Izabel do Rio Negro ",
+        "estado": "AM",
+        "icao": "SWCG",
+        "lat": -0.37895,
+        "long": -64.99646,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1967",
+                "termino": "1973",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, áreas de retorno e concordâncias "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1990",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, áreas de retorno e concordâncias "
+            },
+            {
+                "inicio": "2009",
+                "termino": "2010",
+                "descricao": "Construção da Seção de Contra Incêndio – SECINC "
+            }
+        ]
+    },
+    {
+        "nome": "São Gabriel da Cachoeira ",
+        "estado": "AM",
+        "icao": "SWUA",
+        "lat": -0.15384,
+        "long": -66.9929,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Construção de uma área para instalação da estação radiodifusora da RADIOBRÁS "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1981",
+                "descricao": "Construção do terminal de passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção de áreas internas e externas da Missão Religiosa "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Montagem de uma estrutura metálica para instalação de um Hangar "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1982",
+                "descricao": "Construção de áreas internas e externas do 1º BEC "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Construção de um hangar em estrutura metálica para a unidade de distribuição da COBAL "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1989",
+                "descricao": "Recuperação da pista, pátio de aeronaves, pista de rolagem e áreas de retono "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1994",
+                "descricao": "Construção de torre, KF e KT para o SIVAM "
+            },
+            {
+                "inicio": "1998",
+                "termino": "1999",
+                "descricao": "Recuperação da pista, pátio de aeronaves, pista de rolagem e áreas de retono "
+            },
+            {
+                "inicio": "1997",
+                "termino": "1999",
+                "descricao": "Recuperação da Sinalização luminosa "
+            },
+            {
+                "inicio": "1999",
+                "termino": "2001",
+                "descricao": "Ampliação do pátio de aeronaves "
+            },
+            {
+                "inicio": "2000",
+                "termino": "2001",
+                "descricao": "Construção da estrada de contorno e cerca operacional "
+            }
+        ]
+    },
+    {
+        "nome": "Tabatinga ",
+        "estado": "AM",
+        "icao": "SBTT",
+        "lat": -4.25376,
+        "long": -69.94,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1959",
+                "termino": "1965",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1973",
+                "descricao": "Construção do sistema viário da Vila Residencial do Comando de Fronteiras do Solimões "
+            },
+            {
+                "inicio": "1972",
+                "termino": "1974",
+                "descricao": "Reforma da pista de pouso e construção de pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1974",
+                "termino": "1974",
+                "descricao": "Construção da estrada de acesso ao Marco  "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1975",
+                "descricao": "Construção de um conjunto residencial para o Destacamento da FAB "
+            },
+            {
+                "inicio": "1976",
+                "termino": "1976",
+                "descricao": "Recuperação de trechos da estrada de acesso aeroporto/Marco e do Pátio de estacionamento de veículos em frente ao Terminal de Passageiros "
+            },
+            {
+                "inicio": "1976",
+                "termino": "1977",
+                "descricao": "Instalação do balizamento noturno "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1980",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção de um hotel de trânsito em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1983",
+                "descricao": "Recuperação da estrada de acesso ao Marco  "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Recapeamento da pista de pouso "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Recuperação de pátio de aeronaves, pista de rolagem e pátio de estacionamento de veículos "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação da estrada de acesso aeroporto/Marco  "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1986",
+                "descricao": "Pavimentação e infraestrutura da Vila Residencial da Marinha "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Construção de um prédio em alvenaria para instalação do D.P.V. "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1990",
+                "descricao": "Reforma da estrada de acesso aeroporto/Marco  - 1ª etapa "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Reforma da estrada de acesso aeroporto/Marco  - complementação da 1ª etapa "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1992",
+                "descricao": "Reforma da estrada de acesso aeroporto/Marco  - 2ª etapa - 1ª fase "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1993",
+                "descricao": "Reforma da estrada de acesso aeroporto/Marco  - 2ª etapa - 2ª fase "
+            },
+            {
+                "inicio": "1993",
+                "termino": "1993",
+                "descricao": "Reforma da estrada de acesso aeroporto/Marco  - 2ª etapa - 3ª fase - conclusão "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1994",
+                "descricao": "Construção de torre e KT do radar para o Projeto SIVAM "
+            }
+        ]
+    },
+    {
+        "nome": "Taracuá ",
+        "estado": "AM",
+        "icao": "SWTR",
+        "lat": -8.15814,
+        "long": -70.7804,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1967",
+                "termino": "1973",
+                "descricao": "Construção da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Tefé",
+        "estado": "AM",
+        "icao": "SBTF",
+        "lat": -3.38154,
+        "long": -64.72523,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1956",
+                "termino": "1962",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1972",
+                "termino": "1974",
+                "descricao": "Reforma da pista de pouso e construção de pátio de aeronaves, área de retorno e pista de rolagem "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Recuperação do hotel de trânsito da FAB "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1987",
+                "descricao": "Pavimentação da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, área de retorno e pista de rolagem "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Construção dos acessos DME/KF e GTA nas instalações da TASA "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Ampliação da pista de pouso e construção de duas cabeceiras "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1990",
+                "descricao": "Construção do sistema de drenagem do aeroporto "
+            }
+        ]
+    },
+    {
+        "nome": "Uapuí",
+        "estado": "AM",
+        "icao": "SWUK",
+        "lat": 1.21639,
+        "long": -69.2,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            }
+        ]
+    },
+    {
+        "nome": "Vila Bittencourt ",
+        "estado": "AM",
+        "icao": "SWJP",
+        "lat": -1.40393,
+        "long": -69.4238,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1976",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1990",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1990",
+                "descricao": "Recuperação do acesso à Vila Militar do Exército/Porto "
+            },
+            {
+                "inicio": "2002",
+                "termino": "2007",
+                "descricao": "Ampliação da pista de pouso e reforço dos pavimentos do aeródromo "
+            }
+        ]
+    },
+    {
+        "nome": "Iauaretê ",
+        "estado": "AM",
+        "icao": "SBYA",
+        "lat": 0.61038,
+        "long": -69.1799,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1987",
+                "descricao": "Reforma da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1990",
+                "descricao": "Infraestrutura urbana e pavimentação de áreas internas e externas do 1º Pelotão Especial de Fronteira "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1990",
+                "descricao": "Pavimentação da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1993",
+                "descricao": "Recuperação de áreas comprometidas e drenagem da pista de pouso "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2021",
+                "descricao": "Ampliação da pista de pouso e reforço dos pavimentos "
+            }
+        ]
+    },
+    {
+        "nome": "Amapá ",
+        "estado": "AP",
+        "icao": "SBAM",
+        "lat": 2.0775,
+        "long": -50.8582,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1982",
+                "termino": "1983",
+                "descricao": "Recuperação e cobertura de um hangar em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1990",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Macapá ",
+        "estado": "AP",
+        "icao": "SBMQ",
+        "lat": 0.05066,
+        "long": -51.0722,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1969",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1972",
+                "termino": "1974",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1974",
+                "termino": "1975",
+                "descricao": "Recuperação de trechos da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1976",
+                "termino": "1976",
+                "descricao": "Pavimentação de uma estrada de acesso para a ICOMI "
+            },
+            {
+                "inicio": "1976",
+                "termino": "1977",
+                "descricao": "Recapeamento da pista de pouso, pátio de aeronaves, pista de rolagem "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1986",
+                "descricao": "Pavimentação do sistema viário da Vila da ICOMI na Serra do Navio "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1990",
+                "descricao": "Recuperação e reforço da pista de pouso, ligação do acesso ao pátio de aeronaves, implantação da rede de drenagem profunda e substituição do sistema de balizamento noturno "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1991",
+                "descricao": "Ampliação e recuperação do pátio de manobra, recuperação da pista de rolagem existente e construção de uma pista de rolagem na ampliação "
+            }
+        ]
+    },
+    {
+        "nome": "Oiapoque ",
+        "estado": "AP",
+        "icao": "SBOI",
+        "lat": 3.8541,
+        "long": -51.797,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção de um Terminal de passageiros em estrutura/metálica e alvenaria "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção da estrada de acesso aeroporto/NPV "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1977",
+                "descricao": "Construção da drenagem do aeroporto "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1977",
+                "descricao": "Instalação do balizamento noturno "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1990",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e áreas de concordâncias "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2008",
+                "descricao": "Ampliação da pista de pouso e reforço dos pavimentos "
+            },
+            {
+                "inicio": "2018",
+                "termino": "2018",
+                "descricao": "Instalação de cerca operacional, balizamento noturno e e sinalização horizontal da pista de pouso e decolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Fortaleza ",
+        "estado": "CE",
+        "icao": "SBFZ",
+        "lat": -3.77628,
+        "long": -38.5326,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Recuperação do pátio de aeronaves do 1º/4º GAv "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Formosa ",
+        "estado": "GO",
+        "icao": "SWFR",
+        "lat": -15.5551,
+        "long": -47.3457,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1976",
+                "termino": "1982",
+                "descricao": "Recuperação da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Iaciara ",
+        "estado": "GO",
+        "icao": "SJIY",
+        "lat": -4.979,
+        "long": -56.9272,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1976",
+                "termino": "1982",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem  "
+            }
+        ]
+    },
+    {
+        "nome": "Barra do Corda ",
+        "estado": "MA",
+        "icao": "SNBC",
+        "lat": -5.502,
+        "long": -45.2158,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1960",
+                "termino": "1960",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1962",
+                "termino": "1968",
+                "descricao": "Construção de um Terminal de Passageiros em alvenaria. "
+            }
+        ]
+    },
+    {
+        "nome": "Carolina ",
+        "estado": "MA",
+        "icao": "SBCI",
+        "lat": -7.32044,
+        "long": -47.4587,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1966",
+                "termino": "1972",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de três residências em alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de um Terminal de Passageiros em alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1997",
+                "termino": "1998",
+                "descricao": "Ampliação e reforma do refeitório, almoxarifado, alojamento de trânsito, Estação de Passageiros e três residências "
+            }
+        ]
+    },
+    {
+        "nome": "Imperatriz ",
+        "estado": "MA",
+        "icao": "SBIZ",
+        "lat": -5.53129,
+        "long": -47.46,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1972",
+                "termino": "1973",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, áreas de concordâncias e retorno "
+            },
+            {
+                "inicio": "1972",
+                "termino": "1973",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1973",
+                "descricao": "Construção de uma casa de força "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1973",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1986",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, áreas de concordâncias e retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Pinheiro ",
+        "estado": "MA",
+        "icao": "SNYE",
+        "lat": -2.4774,
+        "long": -45.105,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1987",
+                "termino": "1989",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, sinalização com sistema de balizamento noturno e diurno "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1989",
+                "descricao": "Pavimentação de vias urbanas "
+            }
+        ]
+    },
+    {
+        "nome": "São Luiz ",
+        "estado": "MA",
+        "icao": "SBSL",
+        "lat": -2.58536,
+        "long": -44.2341,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1964",
+                "termino": "1970",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Alta Floresta ",
+        "estado": "MT",
+        "icao": "SBAT",
+        "lat": -9.86639,
+        "long": -56.1063,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1982",
+                "termino": "1984",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e pátio de pequenas aeronaves "
+            }
+        ]
+    },
+    {
+        "nome": "Cuiabá  - Marechal Rondon",
+        "estado": "MT",
+        "icao": "SNQW",
+        "lat": -7.56474,
+        "long": -57.7398,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1983",
+                "termino": "1984",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem  "
+            }
+        ]
+    },
+    {
+        "nome": "Forte Coimbra ",
+        "estado": "MT",
+        "icao": "SSFK",
+        "lat": -19.906,
+        "long": -57.7798,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção da Infraestrutura urbana da área do Pelotão do Exército "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de concordâncias "
+            }
+        ]
+    },
+    {
+        "nome": "Sinop ",
+        "estado": "MT",
+        "icao": "SWSI",
+        "lat": -11.885,
+        "long": -55.58611,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1982",
+                "termino": "1984",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Alenquer ",
+        "estado": "PA",
+        "icao": "SDWQ",
+        "lat": -1.971,
+        "long": -54.72292,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1978",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1984",
+                "descricao": "Construção de um Terminal de Passageiros "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1980",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1980",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Almerim ",
+        "estado": "PA",
+        "icao": "SNYA",
+        "lat": -1.47952,
+        "long": -52.5782,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1972",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1976",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            }
+        ]
+    },
+    {
+        "nome": "Altamira ",
+        "estado": "PA",
+        "icao": "SBHT",
+        "lat": -3.25314,
+        "long": -52.25394,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1975",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1979",
+                "descricao": "Reforma da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1980",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Construção de uma KT e uma KF "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1981",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperação dos acostamentos da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Belém  - Val de Cans",
+        "estado": "PA",
+        "icao": "SBBE",
+        "lat": -1.37928,
+        "long": -48.47621,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1974",
+                "descricao": "Recuperação da pista de pouso 06/24 "
+            },
+            {
+                "inicio": "1974",
+                "termino": "1974",
+                "descricao": "Recuperação da pista de pouso 02/20 "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção de um pátio de aeronaves de pequeno porte, infraestrutura urbana do acesso ao Terminal de Carga Aérea  e recuperação de três pistas de rolagem "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Infraestrutura urbana da Residência funcional da INFRAERO "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção da rede de esgoto do Terminal de Carga Aérea  "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção do pátio de estacionamento de veículos e acesso ao Terminal de Carga Aérea  "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Recuperação dos pavimentos da área do Terminal de Carga Aérea  "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação das pistas de rolagem \"ECO\" e \"GOLF\" "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1986",
+                "descricao": "Recuperação de um pátio de aeronaves "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso 06/24, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1991",
+                "descricao": "Ampliação da pista de pouso 06/24 "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1991",
+                "descricao": "Construção de uma casa de transmissores , uma casa de força  em alvenaria e bases das antenas do LOCALIZER "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Construção do pátio e acessos ao SCI e pavimentação da via de serviço "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1992",
+                "descricao": "Restauração de vias internas no aeroporto "
+            },
+            {
+                "inicio": "1994",
+                "termino": "1994",
+                "descricao": "Recapeamento asfáltico da pista de pouso 06/24 "
+            },
+            {
+                "inicio": "1994",
+                "termino": "1994",
+                "descricao": "Construção do muro patrimonial do Aeroporto Internacional "
+            },
+            {
+                "inicio": "1995",
+                "termino": "1995",
+                "descricao": "Recapeamento asfáltico da pista de pouso 06/24  "
+            },
+            {
+                "inicio": "1996",
+                "termino": "1997",
+                "descricao": "Recapeamento asfáltico da pista de pouso 06/24 "
+            }
+        ]
+    },
+    {
+        "nome": "Breves ",
+        "estado": "PA",
+        "icao": "SNVS",
+        "lat": -1.6365,
+        "long": -50.443,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Construção de um Terminal de Passageiros em alvenaria "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1987",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Cachimbo ",
+        "estado": "PA",
+        "icao": "SBCC",
+        "lat": -9.33394,
+        "long": -54.9654,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1971",
+                "termino": "1974",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem "
+            },
+            {
+                "inicio": "1972",
+                "termino": "1974",
+                "descricao": "Construção de um prédio em alvenaria para instalação de um radar meteorológico "
+            },
+            {
+                "inicio": "1973",
+                "termino": "1976",
+                "descricao": "Construção de uma usina hidrelétrica de 100 kVA "
+            },
+            {
+                "inicio": "1976",
+                "termino": "1976",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção de um Teminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Construção da urbanização da área de destacamento da FAB "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Construção da rede de alta tensão hidrelétrica/aeroporto "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Recapeamento asfáltico da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Construção de uma estrada de acesso ao GEICAMP "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1984",
+                "descricao": "Construção da drenagem do aeroporto "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Construção das áreas do núcleo do GEICAMP "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Recuperação da drenagem do aeroporto "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1997",
+                "descricao": "Recapeamento asfáltico da pista de pouso "
+            },
+            {
+                "inicio": "1997",
+                "termino": "1997",
+                "descricao": "Pavimentação da estrada de acesso ao GEICAMP "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2004",
+                "descricao": "Construção da Seção de Contra-Incêndio  - CAT 5/6 "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2004",
+                "descricao": "Construção de Paiol Igloo Tipo II  "
+            }
+        ]
+    },
+    {
+        "nome": "Conceição do Araguaia ",
+        "estado": "PA",
+        "icao": "SBAA",
+        "lat": -8.34835,
+        "long": -49.3015,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Cururu ",
+        "estado": "PA",
+        "icao": "SNQW",
+        "lat": -7.56474,
+        "long": -57.73987,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Recuperação da pista de pouso e pátio de aeronaves "
+            }
+        ]
+    },
+    {
+        "nome": "Igarapé-açu ",
+        "estado": "PA",
+        "icao": "SBGM",
+        "lat": -10.7864,
+        "long": -65.284,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1985",
+                "descricao": "Construção da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Itaituba ",
+        "estado": "PA",
+        "icao": "SBIH",
+        "lat": -4.2421,
+        "long": -56,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1979",
+                "termino": "1981",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem , área de retorno e concordâncias "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Recuperação de trechos da pista de rolagem  "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção de um pátio de aeronaves e pista de rolagem  para aviação de pequeno porte "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem  e áreas de concordâncias e retorno "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1990",
+                "descricao": "Recuperação e ampliação de um pátio de aeronaves e recuperação e construção de uma pista de rolagem  "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1991",
+                "descricao": "Pavimentação de vias urbanas "
+            }
+        ]
+    },
+    {
+        "nome": "Jacareacanga ",
+        "estado": "PA",
+        "icao": "SBEK",
+        "lat": -6.23316,
+        "long": -57.7769,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1981",
+                "termino": "1982",
+                "descricao": "Recuperação e ampliação do Colégio da Fundação de Assistência aos Garimpeiros "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1982",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1983",
+                "descricao": "Recuperação e ampliação da Escola “Avante Brasil” "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1997",
+                "termino": "1998",
+                "descricao": "Recuperação de instalações do DPV e Vila Residencial "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Recuperação de trechos da pista de pouso e pista de rolagem "
+            },
+            {
+                "inicio": "1998",
+                "termino": "1999",
+                "descricao": "Pavimentação da pista, pátio, táxi e ampliação da pista "
+            }
+        ]
+    },
+    {
+        "nome": "Marabá ",
+        "estado": "PA",
+        "icao": "SBMA",
+        "lat": -5.3685,
+        "long": -49.138,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1976",
+                "termino": "1977",
+                "descricao": "Construção do sistema viário da Velha Marabá "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1978",
+                "descricao": "Pavimentação de áreas internas da COBAL "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Pavimentação de áreas internas do INCRA "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1978",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, áreas de retorno e drenagem "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1980",
+                "descricao": "Pavimentação de áreas internas do Projeto RONDON "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1980",
+                "descricao": "Construção do sistema viário urbano da Nova Marabá e Vila Militar do Exército "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção da estrada de acesso Transamazônica/Sítio das Freiras "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Ampliação do pátio de aeronaves, recuperação de erosões na CAB 25 e construção de vala de drenagem nos acostamentos do pátio de aeronaves "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e serviços complementares ao aeroporto "
+            }
+        ]
+    },
+    {
+        "nome": "Monte Alegre ",
+        "estado": "PA",
+        "icao": "SNMA",
+        "lat": -1.9958,
+        "long": -54.0742,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1970",
+                "termino": "1976",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1982",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Recuperação de trechos da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção de um prédio em alvenaria para instalação do hotel de trânsito da COMARA "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1986",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso e pátio de aeronaves "
+            }
+        ]
+    },
+    {
+        "nome": "Nilo Peçanha ",
+        "estado": "PA",
+        "icao": "SNNP",
+        "lat": -8.06694,
+        "long": -52.16722,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Óbidos ",
+        "estado": "PA",
+        "icao": "SBMA",
+        "lat": -5.3689,
+        "long": -49.138,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1978",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1978",
+                "descricao": "Recuperação de trechos da pista de pouso "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1982",
+                "descricao": "Recuperação de pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Oriximiná ",
+        "estado": "PA",
+        "icao": "SNOX",
+        "lat": -1.71408,
+        "long": -55.8362,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1984",
+                "termino": "1984",
+                "descricao": "Construção de um Terminal de Passageiros em alvenaria "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1984",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, áreas de retorno e drenagem do aeroporto "
+            }
+        ]
+    },
+    {
+        "nome": "Porto de Moz ",
+        "estado": "PA",
+        "icao": "SBMZ",
+        "lat": -1.7333,
+        "long": -52.25,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1978",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1978",
+                "descricao": "Construção do sistema viário "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Redenção",
+        "estado": "PA",
+        "icao": "SNDC",
+        "lat": -8.03329,
+        "long": -49.9799,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    },
+    {
+        "nome": "Santarém ",
+        "estado": "PA",
+        "icao": "SBSN",
+        "lat": -2.42242,
+        "long": -54.793,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1974",
+                "termino": "1977",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, duas pistas de rolagem, cabeceira 09/27 e onze ilhas em concreto "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1976",
+                "descricao": "Construção de um terminal de passageiros e um Terminal de Carga em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1977",
+                "descricao": "Construção do sistema de drenagem de águas superficiais "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Construção de uma KT e uma KF do sistema externo do NDB "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1983",
+                "descricao": "Recapeamento da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de concordâncias "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Revestimento das concordâncias da pista de pouso, áreas comprometidas do pátio de manobras e táxi "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Construção de um pátio de aeronaves para aviação geral "
+            },
+            {
+                "inicio": "1990",
+                "termino": "1992",
+                "descricao": "Recapeamento da pista de pouso, pátio de aeronaves, pista de rolagem e área de concordância "
+            }
+        ]
+    },
+    {
+        "nome": "São Félix do Xingu ",
+        "estado": "PA",
+        "icao": "SNFX",
+        "lat": -6.6413,
+        "long": -51.9523,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1975",
+                "termino": "1978",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1984",
+                "descricao": "Construção de um Terminal de Passageiros "
+            },
+            {
+                "inicio": "1981",
+                "termino": "1981",
+                "descricao": "Construção da cerca patrimonial "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Tiriós ",
+        "estado": "PA",
+        "icao": "SBTS",
+        "lat": 2.22454,
+        "long": -55.9447,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1980",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1981",
+                "descricao": "Construção de uma ponte de madeira com pilares de concreto "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Construção de uma residência de dois pavimentos em alvenaria para a missão religiosa "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1986",
+                "descricao": "Reforço e ampliação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Pavimentação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2009",
+                "descricao": "Ampliação da pista de pouso, reforço dos pavimentos em CBUQ, balizamento noturno e drenagem "
+            }
+        ]
+    },
+    {
+        "nome": "Petrolina ",
+        "estado": "PE",
+        "icao": "SBPL",
+        "lat": -9.3624,
+        "long": -40.5691,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção de um terminal de passageiros em estrutura metálica e alvenaria com dois pavimentos "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção da estrada de acesso aeroporto/Curtume Coelho "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1980",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso e pátio de aeronaves "
+            }
+        ]
+    },
+    {
+        "nome": "Recife ",
+        "estado": "PE",
+        "icao": "SBRF",
+        "lat": -8.12598,
+        "long": -34.9233,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1983",
+                "termino": "1983",
+                "descricao": "Ampliação e recuperação do pátio de manobras e construção da pista de táxi do Parque de Material Aeronáutico "
+            },
+            {
+                "inicio": "1983",
+                "termino": "1984",
+                "descricao": "Drenagem do táxi e pátio de estacionamento e urbanização de áreas internas do PAMA/RF "
+            }
+        ]
+    },
+    {
+        "nome": "Gilbués ",
+        "estado": "PI",
+        "icao": "SNGB",
+        "lat": -9.83361,
+        "long": -45.36722,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1959",
+                "termino": "1965",
+                "descricao": "Construção da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Teresina ",
+        "estado": "PI",
+        "icao": "SBTE",
+        "lat": -5.06025,
+        "long": -42.8237,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1962",
+                "termino": "1968",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1967",
+                "termino": "1973",
+                "descricao": "Construção de um Terminal de Passageiros. "
+            },
+            {
+                "inicio": "1982",
+                "termino": "1983",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Guajará-mirim ",
+        "estado": "RO",
+        "icao": "SBGM",
+        "lat": -10.7864,
+        "long": -65.2848,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1977",
+                "termino": "1978",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1979",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção do sistema viário urbano "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Construção da estrada de acesso aeroporto/cidade "
+            },
+            {
+                "inicio": "1989",
+                "termino": "1989",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            },
+            {
+                "inicio": "2003",
+                "termino": "2009",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            }
+        ]
+    },
+    {
+        "nome": "Ji-paraná ",
+        "estado": "RO",
+        "icao": "SWJI",
+        "lat": -10.87074,
+        "long": -61.84668,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1977",
+                "termino": "1979",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção de um Terminal de Passageiros em alvenaria "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem, área de retorno e áreas de concordâncias "
+            }
+        ]
+    },
+    {
+        "nome": "Porto Velho ",
+        "estado": "RO",
+        "icao": "SBPV",
+        "lat": -8.70785,
+        "long": -63.90242,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1968",
+                "termino": "1974",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1974",
+                "termino": "1975",
+                "descricao": "Recuperação de trecho da pista de pouso com P.M.F. "
+            },
+            {
+                "inicio": "1976",
+                "termino": "1978",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1979",
+                "descricao": "Construção de três residências em alvenaria com 128,25 m² cada "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1980",
+                "descricao": "Construção de cinco residências em alvenaria  com 149,26 m² cada "
+            },
+            {
+                "inicio": "1978",
+                "termino": "1980",
+                "descricao": "Construção de um prédio em alvenaria para instalação do VHF / ER "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1990",
+                "descricao": "Construção do sistema de drenagem do aeroporto "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Ampliação e recuperação do sistema de drenagem do aeroporto "
+            },
+            {
+                "inicio": "1995",
+                "termino": "1996",
+                "descricao": "Construção de cinco PNR para oficiais e sargentos BAPV/COMAR VII "
+            },
+            {
+                "inicio": "1995",
+                "termino": "1996",
+                "descricao": "Construção de 21 PNR para suboficiais e sargentos BAPV/COMAR VII "
+            },
+            {
+                "inicio": "2005",
+                "termino": "2005",
+                "descricao": "Reforma do hangar do 2º/3º GAv "
+            },
+            {
+                "inicio": "2004",
+                "termino": "2005",
+                "descricao": "Construção do prédio do Treinador ALX "
+            },
+            {
+                "inicio": "2005",
+                "termino": "2005",
+                "descricao": "Recuperação e ampliação da cerca patrimonial "
+            },
+            {
+                "inicio": "2005",
+                "termino": "2006",
+                "descricao": "Construção do hangar de lavagem "
+            },
+            {
+                "inicio": "2005",
+                "termino": "2006",
+                "descricao": "Construção da torre de paraquedas "
+            },
+            {
+                "inicio": "2006",
+                "termino": "2006",
+                "descricao": "Ampliação do pátio do R-99 "
+            },
+            {
+                "inicio": "2007",
+                "termino": "2008",
+                "descricao": "Construção do Hangar do R-99 "
+            }
+        ]
+    },
+    {
+        "nome": "Vilhena ",
+        "estado": "RO",
+        "icao": "SBVH",
+        "lat": -12.6944,
+        "long": -60.0983,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1976",
+                "termino": "1976",
+                "descricao": "Recuperação da antiga pista de pouso "
+            },
+            {
+                "inicio": "1979",
+                "termino": "1982",
+                "descricao": "Construção da nova pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1980",
+                "termino": "1982",
+                "descricao": "Construção de um Terminal de Passageiros em estrutura metálica e alvenaria "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperação da nova pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e área de retorno "
+            },
+            {
+                "inicio": "2007",
+                "termino": "2008",
+                "descricao": "Construção da estrada de acesso da BR-174 ao Terminal de Passageiros do aeroporto de Vilhena-RO "
+            },
+            {
+                "inicio": "2007",
+                "termino": "2009",
+                "descricao": "Construção da pista de ligação e pátio militar da Base Aérea de Vilhena-RO "
+            }
+        ]
+    },
+    {
+        "nome": "Boa Vista ",
+        "estado": "RR",
+        "icao": "SBBV",
+        "lat": -2.84586,
+        "long": -60.69094,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1960",
+                "termino": "1966",
+                "descricao": "Construção da pista de pouso "
+            },
+            {
+                "inicio": "1972",
+                "termino": "1972",
+                "descricao": "Reconstrução da pista de pouso, pátio de aeronaves, pista de rolagem e táxi "
+            },
+            {
+                "inicio": "1975",
+                "termino": "1975",
+                "descricao": "Construção da cabeceira 07 e restauração do balizamento noturno "
+            },
+            {
+                "inicio": "1984",
+                "termino": "1985",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1992",
+                "termino": "1994",
+                "descricao": "Construção de edificações para o Projeto SIVAM  "
+            }
+        ]
+    },
+    {
+        "nome": "Normandia ",
+        "estado": "RR",
+        "icao": "SWNM",
+        "lat": 3.87993,
+        "long": -59.623559,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1966",
+                "termino": "1972",
+                "descricao": "Construção da pista de pouso "
+            }
+        ]
+    },
+    {
+        "nome": "Surucucu ",
+        "estado": "RR",
+        "icao": "SWUQ",
+        "lat": 2.83528,
+        "long": -63.647,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1980",
+                "termino": "1981",
+                "descricao": "Construção da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1986",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1991",
+                "termino": "1991",
+                "descricao": "Pavimentação das vias do Pelotão do Exército "
+            },
+            {
+                "inicio": "1993",
+                "termino": "1994",
+                "descricao": "Recuperação de áreas danificadas da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1994",
+                "termino": "1994",
+                "descricao": "Recuperação de áreas danificadas da pista de pouso e pátio de aeronaves "
+            },
+            {
+                "inicio": "1994",
+                "termino": "1996",
+                "descricao": "Reparos e execução de capa selante na pista de pouso do aeródromo "
+            }
+        ]
+    },
+    {
+        "nome": "Guaratinguetá ",
+        "estado": "SP",
+        "icao": "SBGW",
+        "lat": -22.7916,
+        "long": -45.2048,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1985",
+                "termino": "1986",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno e concordâncias "
+            }
+        ]
+    },
+    {
+        "nome": "Pirassununga ",
+        "estado": "SP",
+        "icao": "SBYS",
+        "lat": -21.98469,
+        "long": -47.34121,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação da pista de pouso 02C / 20C e 7 pistas de rolagem "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1988",
+                "descricao": "Recuperação de duas pistas de pouso, pátio de aeronaves, pista de rolagem, acesso e concordâncias, estrada de acesso ao ETA e áreas internas da AFA "
+            }
+        ]
+    },
+    {
+        "nome": "Araguaína ",
+        "estado": "TO",
+        "icao": "SWGN",
+        "lat": -7.22787,
+        "long": -48.2405,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1978",
+                "termino": "1979",
+                "descricao": "Construção de um Terminal de Passageiros "
+            },
+            {
+                "inicio": "1977",
+                "termino": "1979",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de concordâncias "
+            },
+            {
+                "inicio": "1988",
+                "termino": "1988",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Porto Nacional ",
+        "estado": "TO",
+        "icao": "SBPN",
+        "lat": -10.7194,
+        "long": -48.3997,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1980",
+                "termino": "1982",
+                "descricao": "Construção da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Construção de acesso ao aeroporto "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Construção de um pátio de estacionamento de veículos em frente ao Terminal de Passageiros "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Construção do sistema viário da vila residencial da FAB "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Construção do sistema viário da vila residencial da cidade "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Ampliação e pavimentação da pista de pouso, pátio de aeronaves, pista de rolagem e áreas de retorno "
+            }
+        ]
+    },
+    {
+        "nome": "Santa Isabel do Morro ",
+        "estado": "TO",
+        "icao": "SBSY",
+        "lat": -11.56667,
+        "long": -50.66667,
+        "fotos": [],
+        "atividades": [
+            {
+                "inicio": "1985",
+                "termino": "1985",
+                "descricao": "Recuperação de trechos da pista de pouso, pátio de aeronaves e pista de rolagem "
+            },
+            {
+                "inicio": "1987",
+                "termino": "1987",
+                "descricao": "Recuperação da pista de pouso, pátio de aeronaves e pista de rolagem "
+            }
+        ]
+    }
+]
